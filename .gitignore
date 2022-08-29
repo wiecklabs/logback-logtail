@@ -7,5 +7,6 @@ bin
 .settings
 .metadata
 .idea
+.vscode
 *~
 /src/test/resources/logback-test.xml
