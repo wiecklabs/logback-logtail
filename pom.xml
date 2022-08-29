@@ -152,10 +152,6 @@
     </dependencies>
 
     <distributionManagement>
-        <!-- <snapshotRepository>
-            <id>ossrh</id>
-            <url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
-        </snapshotRepository> -->
         <repository>
             <id>wieck-thirdparty-repository</id>
             <url>https://nexus.wieck.com/repository/thirdparty</url>
